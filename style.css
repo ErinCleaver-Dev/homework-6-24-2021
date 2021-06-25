@@ -1,3 +1,8 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
 .body_background {
   background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(55,49,138, 25)), url(https://i.imgur.com/PWcpxYR.png) no-repeat fixed;
   background-size: cover;
@@ -14,7 +19,7 @@
   height: 100px;
   position: absolute;
   align-self: center;
-  top: 90px;
+  top: 70px;
   border-radius: 50%;
   border: 5px solid rgb(231, 231, 231);
   overflow: hidden;
@@ -24,8 +29,16 @@
   height: 100%;
 }
 
+.middle_section {
+  margin-top: 70px;
+  text-align: center;
+}
 
-
+.text_formated {
+  margin-top: 2px;
+  padding: 0px;
+  color: #d4d4d4;
+}
 
 .main_section {
     overflow: hidden;
