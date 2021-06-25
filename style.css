@@ -1,0 +1,5 @@
+.main_background {
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(55,49,138, 25)), url(https://i.imgur.com/PWcpxYR.png) no-repeat fixed;
+  background-size: cover;
+}
+
