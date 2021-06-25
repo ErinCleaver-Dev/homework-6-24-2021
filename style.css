@@ -14,7 +14,7 @@
   height: 100px;
   position: absolute;
   align-self: center;
-  top: 160px;
+  top: 90px;
   border-radius: 50%;
   border: 5px solid rgb(231, 231, 231);
   overflow: hidden;
@@ -24,9 +24,6 @@
   height: 100%;
 }
 
-.me {
-
-}
 
 
 
@@ -38,11 +35,13 @@
     border-radius: 25px;
     display: flex;
     flex-direction: column;
+    position: relative;
   }
 .main_wrapper {
   display: flex;
   align-items: center;
   height: 100vh;
   justify-content: center;
+  
 }
 
