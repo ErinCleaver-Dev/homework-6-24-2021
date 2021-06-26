@@ -62,6 +62,7 @@ body {
     display: flex;
     flex-direction: column;
     position: relative;
+    box-shadow: rgba(19, 50, 95, 0.199) 5px 5px 10px;
   }
 .main_wrapper {
   display: flex;
