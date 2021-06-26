@@ -1,6 +1,7 @@
 body {
   padding: 0;
   margin: 0;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .body_background {
@@ -21,7 +22,8 @@ body {
   align-self: center;
   top: 100px;
   border-radius: 50%;
-  border: 5px solid rgb(231, 231, 231);
+  border: 5px solid rgb(255, 255, 255);
+  box-shadow: rgb(214, 222, 224) -3px 5px 5px;
   overflow: hidden;
 }
 .profile_picture img {
