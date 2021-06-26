@@ -32,6 +32,8 @@ body {
 .middle_section {
   margin-top: 70px;
   text-align: center;
+  border-bottom: 1px solid rgb(236, 236, 236);
+
 }
 
 .text_formated {
